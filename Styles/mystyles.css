@@ -1,0 +1,36 @@
+
+.resume {
+    border: solid 3px black;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.mystory {
+    font-size: 20px;
+    text-align: center;
+}
+
+.sidebar {
+    position:absolute;
+    left: 5px;
+    top: 60px;
+    height: 450px;
+    width: 140px;
+    z-index: 8;
+    background-color: rgb(7, 139, 182);
+    border: solid 2px black;
+    text-align: left;
+}
+
+.subheader {
+    text-decoration: none;
+    text-align: left;
+}
+
+.video {
+    text-align: center;
+}
